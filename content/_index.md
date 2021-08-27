@@ -5,4 +5,4 @@ draft: false
 ---
 Hey, my name is Pasha. Welcome to my [digital garden]({{< relref "posts/digital-garden" >}}).
 
-Here you can find some [books]({{< relref "posts/books" >}}) and [movies]({{< relref "posts/movies" >}}) I like.
+Here you can find [books]({{< relref "posts/books" >}}), [movies]({{< relref "posts/movies" >}}) and [anime]({{< relref "posts/anime" >}}) I like.
