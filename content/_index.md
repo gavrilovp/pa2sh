@@ -6,3 +6,7 @@ draft: false
 Hey, my name is Pasha. Welcome to my [digital garden]({{< relref "posts/digital-garden" >}}).
 
 Here you can find [books]({{< relref "posts/books" >}}), [movies]({{< relref "posts/movies" >}}) and [anime]({{< relref "posts/anime" >}}) I like.
+
+There are some stories below written in Russian, but one day I'll translate them into English:
+* [tea]({{< relref "posts/tea" >}})
+* [a tale about a fly]({{< relref "posts/fly" >}})
