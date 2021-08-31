@@ -14,7 +14,9 @@ I'll be glad to discuss any book below and to listen to your book-related music.
 
 # A History of Western Philosophy by Bertrand Russell
 
-# House of Leaves
+# Hostage by Guy Delisle
+
+# House of Leaves by Mark Z. Danielewski
 
 # The Father: Historical, Psychological and Cultural Perspectives by Luigi Zoja 
 

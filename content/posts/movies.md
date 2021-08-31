@@ -2,23 +2,26 @@
 title: "Movies"
 ---
 
-## Andrei Tarkovsky
+# Andrei Tarkovsky
 Ivan's Childhood
 
 Solaris
 
 Stalker
 
-## Jim Jarmush
-Night on Earth
+# Jim Jarmusch
 
-Dead Man
-
-Ghost Dog: The Way of the Samurai
+Paterson
 
 Only Lovers Left Alive
 
-## Emir Kusturica
+Ghost Dog: The Way of the Samurai
+
+Dead Man
+
+Night on Earth
+
+# Emir Kusturica
 
 Black Cat, White Cat
 
@@ -28,14 +31,23 @@ Time of the Gypsies
 
 Underground
 
-## Misc
+# Wes Anderson
+
+Isle of Dogs
+
+The Grand Budapest Hotel
+
+Moonrise Kingdom
+
+Fantastic Mr. Fox
+
+# Misc
+
 The Lobster
 
 Dogville
 
 Fruitvale Station
-
-Isle of Dogs
 
 It's a Wonderful Life
 
