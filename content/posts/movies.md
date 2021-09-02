@@ -3,6 +3,7 @@ title: "Movies"
 ---
 
 # Andrei Tarkovsky
+
 Ivan's Childhood
 
 Solaris
@@ -58,3 +59,11 @@ Spring, Summer, Fall, Winter... and Spring
 The Matrix
 
 Fight Club
+
+The Good, the Bad and the Ugly
+
+The Last Black Man in San Francisco
+
+Everything Is Illuminated
+
+Serenity (2005)

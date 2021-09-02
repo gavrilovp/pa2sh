@@ -25,3 +25,9 @@ title: "Anime"
 # Steins;Gate
 
 # Texhnolyze
+
+# Princess Mononoke
+
+# Mob Psycho 100
+
+# Serial Experiments Lain
