@@ -6,7 +6,10 @@
   services.nginx = {
     enable = true;
     virtualHosts."pa2sh.club" = {
-      root = pkgs.copyPathToStore /home/pa2sh/pa2sh;
+      forceSSL = true;
+      enableACME = true;
+
+      root = pkgs.copyPathToStore /home/pa2sh/pa2sh/public;
     };
   };
 }
