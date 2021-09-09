@@ -67,3 +67,15 @@ The Last Black Man in San Francisco
 Everything Is Illuminated
 
 Serenity (2005)
+
+Valhalla Rising
+
+Three Billboards Outside Ebbing, Missouri
+
+Nomadland
+
+Blade Runner (1982)
+
+Blade Runner 2049
+
+Drive
