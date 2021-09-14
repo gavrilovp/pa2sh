@@ -1,0 +1,18 @@
+baseURL = 'http://pa2sh.club'
+title = 'Root'
+theme = "hugo-book"
+
+[params]
+  BookSearch = false
+
+  BookTheme = 'dark'
+
+[permalinks]
+  posts = "/posts/:title/"
+
+[menu]
+# [[menu.before]]
+[[menu.after]]
+  name = "Telegram"
+  url = "https://t.me/gavrilovp"
+  weight = 10
