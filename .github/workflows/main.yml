@@ -22,4 +22,11 @@ jobs:
       - name: Build
         run: hugo --minify
       
-    
+      - name: Deploy
+        run: |
+          mkdir ~/.ssh
+          echo "$ssh_key" > ~/.ssh/gh_actions_key
+          chmod 600 ~/.ssh/gh_actions_key
+          rsync -avz -e "ssh -i ~/.ssh/gh_actions_key -o StrictHostKeyChecking=no" public/ pa2sh@pa2sh.club:/home/pa2sh/test_dir
+        env:
+          ssh_key: ${{ secrets.SSH_KEY }}
