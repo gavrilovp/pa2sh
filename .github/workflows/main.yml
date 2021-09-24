@@ -27,7 +27,8 @@ jobs:
           mkdir ~/.ssh
           echo "$ssh_key" > ~/.ssh/gh_actions_key
           chmod 600 ~/.ssh/gh_actions_key
-          rsync -avz -e "ssh -i ~/.ssh/gh_actions_key -o StrictHostKeyChecking=no" public/ pa2sh@pa2sh.club:/home/pa2sh/pa2sh/public configutarion.nix pa2sh@pa2sh.club:/home/pa2sh/pa2sh/configuration.nix
+          rsync -avz -e "ssh -i ~/.ssh/gh_actions_key -o StrictHostKeyChecking=no" configutarion.nix pa2sh@pa2sh.club:/home/pa2sh/pa2sh/configuration.nix
+          rsync -avz -e "ssh -i ~/.ssh/gh_actions_key -o StrictHostKeyChecking=no" public/ pa2sh@pa2sh.club:/home/pa2sh/pa2sh/public
           ssh pa2sh.club 'cd pa2sh && sudo nixos-rebuild switch'
         env:
           ssh_key: ${{ secrets.SSH_KEY }}
