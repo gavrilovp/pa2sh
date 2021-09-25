@@ -16,4 +16,4 @@ There are some pieces of paper on the wooden bench with Russian cursive entitled
 * [the tea trip]({{< relref "posts/tea" >}})
 * [the tale about a fly]({{< relref "posts/fly" >}})
 
-You see something that looks like [garden blueprints]({{ "posts/stack" }}) near them.
+You see something that looks like [garden blueprints]({{< relref "posts/stack" >}}) near them.
