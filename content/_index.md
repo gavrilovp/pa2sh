@@ -12,6 +12,8 @@ You ask the beetle for directions. It seems excited to show you some possible pa
 * [anime]({{< relref "posts/anime" >}})
 * [clothing]({{< relref "posts/clothing" >}})
 
-There are some stories below written in Russian, but one day I'll translate them into English:
+There are some pieces of paper on the wooden bench with Russian cursive entitled:
 * [the tea trip]({{< relref "posts/tea" >}})
 * [the tale about a fly]({{< relref "posts/fly" >}})
+
+You see something that looks like [garden blueprints]({{ "posts/stack" }}) near them.
