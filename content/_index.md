@@ -17,3 +17,6 @@ There are some pieces of paper on the wooden bench with Russian cursive entitled
 * [the tale about a fly]({{< relref "posts/fly" >}})
 
 You see something that looks like [garden blueprints]({{< relref "posts/stack" >}}) near them.
+
+Trips:
+* [Suzdal]({{< relref "posts/suzdal" >}})
