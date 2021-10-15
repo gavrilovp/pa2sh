@@ -10,6 +10,7 @@ You ask the beetle for directions. It seems excited to show you some possible pa
 * [movies]({{< relref "posts/movies" >}})
 * [series]({{< relref "posts/series" >}})
 * [anime]({{< relref "posts/anime" >}})
+* [music]({{< relref "music" >}})
 * [clothing]({{< relref "posts/clothing" >}})
 
 There are some pieces of paper on the wooden bench with Russian cursive entitled:
