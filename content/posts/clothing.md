@@ -30,13 +30,19 @@ title: "Clothing"
 # Brands
 
 * https://instagram.com/zevgar
-* https://instagram.com/kim_malygin/
+* https://instagram.com/kim_malygin
 * https://carolchristianpoell.com
-* https://labelunderconstruction.com/
+* https://labelunderconstruction.com
 * https://maisonmargiela.com
 * https://arcteryx.com
+* https://folkclothing.com
+* https://transit-official.com
+* https://jakob-hetzer.com
+* https://www.fillingpieces.com
+* https://www.buttero.it
 
 # Inspiration
 
 * https://theessentialman.com
 * The Sopranos
+* https://instagram.com/jakobhetzer
