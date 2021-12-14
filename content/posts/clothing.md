@@ -21,6 +21,8 @@ title: "Clothing"
 * https://suitsupply.ru
 * https://sumei.store
 * https://instagram.com/room_ccp
+* https://vnukovo-outlet.com
+* https://boscooutlet.ru
 
 # Clothing I am currently looking for
 
