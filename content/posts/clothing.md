@@ -19,14 +19,24 @@ title: "Clothing"
 * https://instagram.com/tweed_hat
 * https://spin4spin.com
 * https://suitsupply.ru
+* https://sumei.store
 
 # Clothing I am currently looking for
 
 * navy and white turtlenecks
 * winter boots: danner mountain light ii 5inch black
+* b3 leather bomber jacket
+
+# Brands
+
+* https://instagram.com/zevgar
+* https://instagram.com/kim_malygin/
+* https://carolchristianpoell.com
+* https://labelunderconstruction.com/
+* https://maisonmargiela.com
+* https://arcteryx.com
 
 # Inspiration
 
-* https://instagram.com/zevgar
 * https://theessentialman.com
 * The Sopranos
