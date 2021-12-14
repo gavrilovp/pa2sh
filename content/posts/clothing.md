@@ -23,6 +23,13 @@ title: "Clothing"
 * https://instagram.com/room_ccp
 * https://vnukovo-outlet.com
 * https://boscooutlet.ru
+* https://svmoscow.ru
+
+# Online stores
+
+* https://farfetch.com
+* https://lamoda.ru
+* https://mrporter.com
 
 # Clothing I am currently looking for
 
@@ -41,8 +48,9 @@ title: "Clothing"
 * https://folkclothing.com
 * https://transit-official.com
 * https://jakob-hetzer.com
-* https://www.fillingpieces.com
-* https://www.buttero.it
+* https://fillingpieces.com
+* https://buttero.it
+* https://junghans.de
 
 # Inspiration
 
