@@ -18,3 +18,15 @@ title: "Clothing"
 * https://instagram.com/kings_of_denim
 * https://instagram.com/tweed_hat
 * https://spin4spin.com
+* https://suitsupply.ru
+
+# Clothing I am currently looking for
+
+* navy and white turtlenecks
+* winter boots: danner mountain light ii 5inch black
+
+# Inspiration
+
+* https://instagram.com/zevgar
+* https://theessentialman.com
+* The Sopranos
