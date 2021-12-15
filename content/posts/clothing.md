@@ -24,18 +24,22 @@ title: "Clothing"
 * https://vnukovo-outlet.com
 * https://boscooutlet.ru
 * https://svmoscow.ru
+* https://jewelry-in-august.com
 
 # Online stores
 
 * https://farfetch.com
 * https://lamoda.ru
 * https://mrporter.com
+* https://grailed.com
+* https://ssense.com
 
 # Clothing I am currently looking for
 
 * navy and white turtlenecks
 * winter boots: danner mountain light ii 5inch black
 * b3 leather bomber jacket
+* dark grey wool trousers
 
 # Brands
 
@@ -51,9 +55,13 @@ title: "Clothing"
 * https://fillingpieces.com
 * https://buttero.it
 * https://junghans.de
+* https://vintage-works.co.jp
+* https://everlane.com
 
 # Inspiration
 
 * https://theessentialman.com
 * The Sopranos
 * https://instagram.com/jakobhetzer
+* https://youtube.com/user/BlissMFoster
+* https://instagram.com/btch
