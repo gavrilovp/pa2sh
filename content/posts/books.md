@@ -18,6 +18,8 @@ I'll be glad to discuss any book below and to listen to your book-related music.
 
 # House of Leaves by Mark Z. Danielewski
 
+[Truent's pov spotify playlist.](https://open.spotify.com/playlist/5PQWBBOCSKkmUVe5GN466l)
+
 # The Father: Historical, Psychological and Cultural Perspectives by Luigi Zoja 
 
 # Piranesi by Susanna Clarke
