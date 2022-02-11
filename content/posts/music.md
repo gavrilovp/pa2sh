@@ -26,6 +26,12 @@ A list of albums I enjoyed:
 
 * [Cascade Symmetry by r beny](https://rbeny.bandcamp.com/album/cascade-symmetry)
 
+* [Ruins by Grouper](https://grouper.bandcamp.com/album/ruins)
+
+* [Diafilms by Foresteppe](https://foresteppe.bandcamp.com/album/diafilms)
+
+* [Slowdive by Slowdive](https://slowdive.bandcamp.com/album/slowdive)
+
 [musicforprogramming](https://musicforprogramming.net)
 
 [Albums collected by Clinton Boys](https://www.mtsolitary.com/20210220182154-new-music)
