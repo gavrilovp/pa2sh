@@ -32,8 +32,22 @@ A list of albums I enjoyed:
 
 * [Slowdive by Slowdive](https://slowdive.bandcamp.com/album/slowdive)
 
-[musicforprogramming](https://musicforprogramming.net)
+* [Slow Riot for New Zero Kanada by Godspeed You! Black Emperor](https://godspeedyoublackemperor.bandcamp.com/album/slow-riot-for-new-zero-kanada)
 
-[Albums collected by Clinton Boys](https://www.mtsolitary.com/20210220182154-new-music)
+* [Dustland by The Gentleman Losers](https://thegentlemanlosers.bandcamp.com/album/dustland)
 
-[Sergio's collection](https://garden-olive.vercel.app/garden/cont/music)
+Composers:
+
+* Georgy Vasilyevich Sviridov
+
+* Valentyn Vasylyovych Silvestrov
+
+Misc:
+
+* [musicforprogramming](https://musicforprogramming.net)
+
+* [Albums collected by Clinton Boys](https://www.mtsolitary.com/20210220182154-new-music)
+
+* [Sergio's collection](https://garden-olive.vercel.app/garden/cont/music)
+
+* Red Dead Redemption (2) OST
