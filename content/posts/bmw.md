@@ -82,4 +82,12 @@ title: "Bmw"
 * https://autoretail.by/sekrety-avtomobiley/258-tot-samyj-bumer-otzyvy-vladeltsev-o-bmw-e38.html
 * https://www.kolesa.ru/article/pyat-veshhej-za-kotorye-lyubyat-i-nenavidyat-bmw-7-series-e38
 * https://www.bimmerfest.ru/bmw-e38-vubor-luchshiy-motor-problemy/
+
+Запчасти:
+* https://exist.ru/
+* https://emex.ru/
+* https://zzap.ru/
+* https://cats.parts/
+
+Двигатель:
 * http://wikimotors.ru/m62b44/
