@@ -21,3 +21,6 @@ You see something that looks like [garden blueprints]({{< relref "posts/stack" >
 
 Trips:
 * [Suzdal]({{< relref "posts/suzdal" >}})
+
+Hodgepodge:
+* [favourite words and phrases]({{< relref "posts/favourite-words-and-phrases" >}})
