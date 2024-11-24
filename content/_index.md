@@ -24,3 +24,4 @@ Trips:
 
 Hodgepodge:
 * [favourite words and phrases]({{< relref "posts/favourite-words-and-phrases" >}})
+* [org-mode and GTD]({{< relref "posts/org-mode-and-gtd" >}})
