@@ -18,6 +18,5 @@ title: "Org-mode and GTD"
 
 # Links
 
-Links:
 * https://www.newartisans.com/2007/08/using-org-mode-as-a-day-planner/
 * https://orgmode.org/worg/org-gtd-etc.html
