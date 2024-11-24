@@ -4,11 +4,11 @@ title: "Org-mode and GTD"
 
 # Why?
 
-To be able to choose this or that.
-To ensure that long term stuff gets its attention.
-Relatively small bureacrucy cost.
-Keep the big picture and small details outside of the mind.
-Have chances to keep the ordering party informed in case the deadline is dead.
+* To be able to choose this or that.
+* To ensure that long term stuff gets its attention.
+* Relatively small bureacrucy cost.
+* Keep the big picture and small details outside of the mind.
+* Have chances to keep the ordering party informed in case the deadline is dead.
 
 # Steps
 
