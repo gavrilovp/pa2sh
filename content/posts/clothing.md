@@ -4,6 +4,7 @@ title: "Clothing"
 
 # Offline stores based in Moscow
 
+* https://askent.ru
 * https://schottnyc.ru
 * https://leform.ru
 * https://dadmoscow.ru
@@ -26,6 +27,11 @@ title: "Clothing"
 * https://svmoscow.ru
 * https://jewelry-in-august.com
 
+# Offline stores based in Saint P
+
+* https://homiesfootwear.com
+* https://www.spbshield.ru
+
 # Online stores
 
 * https://farfetch.com
@@ -33,6 +39,7 @@ title: "Clothing"
 * https://mrporter.com
 * https://grailed.com
 * https://ssense.com
+* https://topdogfc.ru/catalog
 
 # Clothing I am currently looking for
 
