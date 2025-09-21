@@ -12,6 +12,7 @@ You ask the beetle for directions. It seems excited to show you some possible pa
 * [anime]({{< relref "posts/anime" >}})
 * [music]({{< relref "music" >}})
 * [clothing]({{< relref "posts/clothing" >}})
+* [surfing]({{< relref "posts/surfing" >}})
 
 There are some pieces of paper on the wooden bench with Russian cursive entitled:
 * [the tea trip]({{< relref "posts/tea" >}})
