@@ -11,7 +11,7 @@ My playlists:
 * [Evening sun](https://open.spotify.com/playlist/3dJnb6nIgId1Sb40yq06pa)
 * [Ambient](https://open.spotify.com/playlist/7FR2yQBjbcYZNoChj3HYe9)
 
-A list of albums I enjoyed:
+Albums:
 
 * [Har Nevo by The Black Heart Rebellion](https://theblackheartrebellion.bandcamp.com/album/har-nevo)
 * [Clara by Loscil](https://loscil.bandcamp.com/album/clara)
@@ -39,9 +39,12 @@ Misc:
 * [Albums collected by Clinton Boys](https://www.mtsolitary.com/20210220182154-new-music)
 * [Sergio's collection](https://garden-olive.vercel.app/garden/cont/music)
 * Red Dead Redemption (2) OST
+* [Vincent Moon](https://vincentmoon.com)
 
 Instruments:
+
 * Pump organ (foot- and hand-pumped)
 * Shruti box
 * Sansula
+* Bell
 * Standing bell

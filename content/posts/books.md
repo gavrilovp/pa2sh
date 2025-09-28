@@ -43,3 +43,4 @@ I'll be glad to discuss any book below and to listen to your book-related music.
 * Penguin Island by Anatole France
 * Breathe by Anne-Sophie Brasme
 * The King in Yellow by Robert W. Chambers
+* Moby-Dick by Herman Melville
