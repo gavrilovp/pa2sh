@@ -13,6 +13,8 @@ My playlists:
 
 Albums:
 
+* [Promises by Floating Points, Pharoah Sanders and the London Symphony Orchestra](https://floatingpoints.bandcamp.com/album/promises)
+* [Le Cri du Caire by Abdullah Miniawy and Le Cri du Caire](https://lecriducaire.bandcamp.com/album/le-cri-du-caire-2)
 * [Har Nevo by The Black Heart Rebellion](https://theblackheartrebellion.bandcamp.com/album/har-nevo)
 * [Clara by Loscil](https://loscil.bandcamp.com/album/clara)
 * [Norfaragell​-​Thul \[remaster\] by Splendorius](https://splendorius.bandcamp.com/album/norfaragell-thul-remaster)
@@ -43,8 +45,16 @@ Misc:
 
 Instruments:
 
+* Violoncello
+* Piano (upright and grand)
 * Pump organ (foot- and hand-pumped)
 * Shruti box
 * Sansula
 * Bell
 * Standing bell
+
+Backlog:
+
+* Waltz for A Hunting Accident by Eugen Doga
+* Laura Palmer's theme by Badalamenti
+* Chamber of Reflection by Mac DeMarco
