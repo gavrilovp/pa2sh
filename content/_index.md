@@ -3,6 +3,9 @@ title: ""
 date: 2021-07-06T17:22:21Z
 draft: false
 ---
+
+[![1](/ocean.jpg)](/ocean.jpg)
+
 Hey, my name is Pasha. Welcome to my [digital garden]({{< relref "posts/digital-garden" >}}).
 
 You ask the beetle for directions. It seems excited to show you some possible paths:
