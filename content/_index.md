@@ -14,10 +14,6 @@ You ask the beetle for directions. It seems excited to show you some possible pa
 * [clothing]({{< relref "posts/clothing" >}})
 * [surfing]({{< relref "posts/surfing" >}})
 
-There are some pieces of paper on the wooden bench with Russian cursive entitled:
-* [the tea trip]({{< relref "posts/tea" >}})
-* [the tale about a fly]({{< relref "posts/fly" >}})
-
 You see something that looks like [garden blueprints]({{< relref "posts/stack" >}}) near them.
 
 Trips:
