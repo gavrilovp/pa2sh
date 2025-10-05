@@ -32,7 +32,7 @@ Here is the map with beloved gardens:
 * https://paulgraham.com
 * https://nav.al
 
-[Want your own one?]({{ relref "stack" }})
+[Want your own one?]({{< relref "stack" >}})
 
 Links and resources
 * Zettelkasten
