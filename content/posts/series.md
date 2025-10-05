@@ -2,18 +2,12 @@
 title: "Series"
 ---
 
-# True Detective
-
-# Mr. Robot
-
-# The End of the Fucking World
-
-# Firefly
-
-# The Office
-
-# The Sopranos
-
-# The Wire
-
-# Chernobyl
+* True Detective
+* Babylon Berlin
+* Mr. Robot
+* The End of the Fucking World
+* Firefly
+* The Office
+* The Sopranos
+* The Wire
+* Chernobyl
