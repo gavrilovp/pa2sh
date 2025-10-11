@@ -10,19 +10,24 @@ I was inspired by beautiful [Clinton Boys's garden](https://www.mtsolitary.com/)
 Specifics:
 * Graph with nodes & edges between them as an alternative to stream-like mediums -> various entry points & old posts do not fade into oblivion
 * Dynamic as an alternative to static medium -> plant a seed then go back and finish / rewrite the nodes / reestablish connections
-* Make stream out of a graph -> post, article, book or smth
+* Make a stream out of a graph -> post, article, book or smth
 * Navigation -> easy to explore adjacent topics
 * Indie web -> unique structure, design & your own way to monetize your efforts if you want to as an alternative to platforms
+* Public & private parts
+* The same concept described by various people with different background
+* Links between wiki & private gardens
 
 New knowledge extraction:
-* Connect ideas & domains -> use knownledge extracted in one in order to boost the different one & get an ability to generalize / going to the roots & same problem in various areas
+* Connect ideas & domains -> use knowledge extracted in one in order to boost the different one & get an ability to generalize / going to the roots & revealing the same problem in various areas
 * Log your and people's routes in your garden
-* Find unobvious routes/connections (obsidian, chatgpt)
-* Make it accessible to ChatGPT (LLM in general) or smth in order to have enough context / summarize it
+* Find unobvious routes/connections (obsidian, LLM)
+* Get personalized AI assistance -> make it accessible to LLM (e.g. ChatGPT) in order to have enough context / summarize it
+* Make it accessible to your supervisor in order to adjust a developing trajectory for you based on your boundaries / background / issues
 
 Ideas:
 * Music for garden -> slightly changing ambient soundscape depending on the knowledge cluster (closer the dots -- closer the music)
 * Synthesed background -> the same logic as above
+* Make it accessible to LLM in order to support / replace you as an expert in some cases
 
 Here is the map with beloved gardens:
 * https://mtsolitary.com
