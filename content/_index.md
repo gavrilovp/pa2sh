@@ -16,6 +16,7 @@ You ask the beetle for directions. It seems excited to show you some possible pa
 * [music]({{< relref "music" >}})
 * [clothing]({{< relref "posts/clothing" >}})
 * [surfing]({{< relref "posts/surfing" >}})
+* [management]({{< relref "posts/management" >}})
 
 You see something that looks like [garden blueprints]({{< relref "posts/stack" >}}) near them.
 
